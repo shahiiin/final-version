@@ -1094,9 +1094,10 @@ why_section ul.list li:before {
 }
 
 .book_bg {
- background-image: url(../img/book-bg.jpg);
+ background-image: url(../img/blog1.jpg);
  background-repeat: no-repeat;
- background-position: center left;
+ background-position:center;
+ background-size: 744px 760px;
  position: absolute;
  width: 50%;
  height: 100%;
@@ -1145,6 +1146,7 @@ why_section ul.list li:before {
  line-height: 52px;
  color: #fff;
  border-radius: 0;
+ direction: rtl;
 }
 
 .appointment_form .form-control:hover {
@@ -1164,6 +1166,7 @@ select.form-control:not([size]):not([multiple]) {
  width: 100%;
  line-height: 52px;
  padding: 0 15px;
+ text-align: right !important;
 }
 
 .nice-select.form-control span {
@@ -1189,6 +1192,7 @@ select.form-control:not([size]):not([multiple]) {
 .nice-select .option {
  border-bottom: 1px solid #444;
  line-height: 45px;
+ text-align: center;
 }
 
 .appointment_form .default_btn {
