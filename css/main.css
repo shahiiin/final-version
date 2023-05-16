@@ -1010,7 +1010,9 @@ why_section ul.list li:before {
  top: 0;
 }
 
-.service_section {}
+.service_section {
+ background-color: #fbf1de;;
+}
 
 .service_content img {
  width: 100%;
@@ -1072,10 +1074,14 @@ why_section ul.list li:before {
 .service_box {
  background-color: #fff;
  padding: 40px 30px;
+ /* border:1px solid #7a0683; */
  text-align: center;
  cursor: pointer;
  -webkit-box-shadow: 0 50px 100px 0 rgba(64, 1, 4, .1), 0 -6px 0 0 rgba(248, 99, 107, .004);
  box-shadow: 0 50px 100px 0 rgba(64, 1, 4, .1), 0 -6px 0 0 rgba(248, 99, 107, .004);
+}
+.service_box p{
+ color: #7a0683;
 }
 
 .service_box i {
@@ -1087,6 +1093,7 @@ why_section ul.list li:before {
 
 .service_box h3 {
  font-size: 22px;
+ color: #7a0683;
 }
 
 .book_section {
