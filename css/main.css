@@ -46,7 +46,7 @@ h1 {
 
 h2 {
  font-size: 36px;
- color: #303133;
+ color: #7a0683;
  margin: 0 0 8px;
  font-weight: 400;
  line-height: 48px;
@@ -426,7 +426,7 @@ body.loaded #preloader {
 .section_heading {}
 
 .section_heading h3 {
- color: #9e8a78;
+ color: #7a0683;
  font-weight: 400;
 }
 
@@ -652,7 +652,7 @@ ul.nav li.phone {
 }
 
 ul.nav li.phone i {
- color: #9e8a78;
+ color: #7a0683;
  margin-right: 5px;
 }
 
@@ -874,12 +874,11 @@ ul.nav>li>a.active {
 .about_content h2 {
  font-size: 36px;
  line-height: 46px;
- color: #9e8a78;
-
 }
 
 .about_content p {
  margin-bottom: 30px;
+ color: #7a0683;
 }
 
 .about_section .about_content {}
@@ -930,7 +929,7 @@ ul.nav>li>a.active {
  line-height: 70px;
  text-align: center;
  border-radius: 50%;
- color: #9e8a78;
+ color: #7a0683;
  font-weight: 700;
  display: block;
  transition: all .2s ease-in-out;
@@ -1089,7 +1088,7 @@ why_section ul.list li:before {
 .service_box i {
  font-size: 50px;
  margin-bottom: 20px;
- color: #9e8a78;
+ color: #7a0683;
  display: block;
 }
 
@@ -1335,7 +1334,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .gallery_section .gallery_filter li.active {
- color: #9e8a78;
+ color: #7a0683;
  transition: all .5s ease-in-out;
 }
 
@@ -1424,10 +1423,11 @@ select.form-control:not([size]):not([multiple]) {
 .testimonial_item h4 {
  font-size: 14px;
  margin: 0 0 25px;
+ color: #7a0683 !important;
 }
 
 .testimonial_item p {
-
+ color: #7a0683;
  font-size: 24px;
  line-height: 36px;
 }
@@ -1469,7 +1469,7 @@ select.form-control:not([size]):not([multiple]) {
  background-color: #9e8a78;
  display: inline-block;
  padding: 10px 15px;
- color: #fff;
+ color: #7a0683;
  margin: 0 0 20px;
 }
 
@@ -1482,7 +1482,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .pricing_section .price_wrap .price_list li h4 {
  position: relative;
- color: #333;
+ color: #7a0683;
  font-size: 18px;
  letter-spacing: .5px;
  margin: 0 0 6px;
@@ -1504,7 +1504,7 @@ select.form-control:not([size]):not([multiple]) {
 .pricing_section .price_wrap .price_list li span.price {
 
  font-size: 24px;
- color: #9e8a78;
+ color: #7a0683;
  font-weight: 700;
  position: absolute;
  top: 0;
@@ -1513,6 +1513,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .pricing_section .price_wrap .price_list li p {
  margin: 0;
+ color: #7a0683;
 }
 
 .pricing_section .menu_middle_content {}
@@ -1534,14 +1535,14 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .cta_section .cta_content h2 {
- color: #fff;
+ color: #7a0683;
  font-size: 42px;
  line-height: 56px;
  margin-bottom: 15px;
 }
 
 .cta_section .cta_content p {
- color: #ddd;
+ color: #7a0683;
 }
 
 .pro_cta_content {}
@@ -1692,7 +1693,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .blog-content h3 a:hover {
- color: #9e8a78;
+ color: #7a0683;
 }
 
 .blog-content .read-more {
@@ -1706,7 +1707,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .blog-content .read-more:hover {
- color: #9e8a78;
+ color: #7a0683;
 }
 
 .blog-content .read-more:before {
@@ -1872,7 +1873,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .thumb-post li a:hover {
- color: #9e8a78;
+ color: #7a0683;
  text-decoration: underline;
 }
 
@@ -1913,7 +1914,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .blog-single-content h2 a:hover {
- color: #9e8a78;
+ color: #7a0683;
 }
 
 .single-post-meta {
@@ -1927,7 +1928,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .single-post-meta li i {
  font-size: 12px;
- color: #9e8a78;
+ color: #7a0683;
  margin-right: 5px;
 }
 
@@ -2022,7 +2023,7 @@ blockquote span {
 }
 
 .author-box .social-icon li a:hover {
- color: #9e8a78;
+ color: #7a0683;
 }
 
 .post-navigation {
@@ -2068,7 +2069,7 @@ blockquote span {
 }
 
 .post-navigation .col a:hover {
- color: #9e8a78;
+ color: #7a0683;
 }
 
 .post-navigation .col.prev-post .fa {
@@ -2160,7 +2161,7 @@ blockquote span {
 
  font-size: 12px;
  font-weight: 600;
- color: #9e8a78;
+ color: #7a0683;
  display: inline-block;
  text-transform: uppercase;
  padding-left: 35px;
@@ -2284,7 +2285,7 @@ blockquote span {
 }
 
 .widget_social li a:hover {
- color: #9e8a78;
+ color: #7a0683;
 }
 
 .opening_time {}
@@ -2429,7 +2430,7 @@ blockquote span {
 }
 
 .footer_social li a:hover {
- color: #9e8a78;
+ color: #7a0683;
 }
 
 .page_header {
@@ -2568,6 +2569,7 @@ blockquote span {
  color: var(--dark-purple);
  margin-bottom: 5rem;
  font-family: shabnam;
+ color: #7a0683;
 }
 
 .slide {
@@ -2697,7 +2699,7 @@ blockquote span {
 }
 
 .banner {
- color: #000;
+ color: #7a0683;
  font-size: 3rem;
  text-align: center;
 }
