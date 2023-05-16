@@ -2264,7 +2264,7 @@ blockquote span {
 }
 
 .widget_section {
- background-color: #222227;
+ background-image: linear-gradient( 109.6deg,  rgba(118,12,99,1) 11.2%, rgba(71,11,75,1) 98.6% );
  padding: 100px 0;
 }
 
@@ -2290,7 +2290,7 @@ blockquote span {
 .opening_time {}
 
 .opening_time li {
- color: #999;
+ color: #fff;
  line-height: 35px;
 }
 
@@ -2310,7 +2310,7 @@ blockquote span {
 }
 
 .footer_widget p {
- color: #999;
+ color: #fff;
  text-align: right;
 }
 
